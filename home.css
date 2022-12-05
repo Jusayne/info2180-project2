@@ -1,0 +1,25 @@
+body{
+  font-family:Arial, Helvetica, sans-serif;
+}
+.login-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    min-height: 100vh;
+    align-items: center;
+    border-color: var(--dl-color-gray-black);
+    border-width: 1px;
+    flex-direction: column;
+    justify-content: center;
+
+  }
+  .login-container1 {
+    flex: 0 0 auto;
+    width: auto;
+    border: 2px dashed rgba(120, 120, 120, 0.4);
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
