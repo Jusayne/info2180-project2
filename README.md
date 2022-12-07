@@ -1,3 +1,3 @@
-# INFO2180 - Project 2
+# INFO2180 - Final Project (Project 2)
 
-This is Project 2 for Jusayne Chambers
+This is the final project (Project 2) for Jusayne Chambers
