@@ -1,0 +1,42 @@
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    margin: 30px;
+}
+
+#email{
+    margin-bottom: 15px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding-right: 100px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+#password{
+    margin-bottom: 15px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding-right: 100px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+#submit{
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(12, 10, 50);
+    color:white;
+    margin-left: 85px;
+}
+
+h2{
+    font-size: 50px;
+}
